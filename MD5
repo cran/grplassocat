@@ -1,0 +1,9 @@
+9a28062b24b914e927c0e2c56056e5f3 *DESCRIPTION
+3ee139783315a0058c4ab08551cc8233 *NAMESPACE
+e13f1d9d6de9dec3e7da1b25c898c9ea *R/fit_grp.R
+b93c4464147cf5ebdf59a0bb67a6d1f3 *R/func_int.R
+ae76f9656b9173fd8c87c8478b5105ef *R/gen_dum.R
+56a0e6b2e023207922820d9c7a897f81 *R/seqWrapper.R
+d488553cec7064726c9d5044d46fac4f *data/dattest.RData
+bad7ec20967908e8f707450f81f7a14d *man/fit_grp.Rd
+ed2265fcddfd4cf88ad56e0fbc507930 *man/internals.Rd
